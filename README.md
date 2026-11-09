@@ -21,6 +21,7 @@ Next.js 14 (App Router), TypeScript, Tailwind CSS, Prisma, PostgreSQL 16 in Dock
 Read [CONTRIBUTING.md](CONTRIBUTING.md), then [docs/rules.md](docs/rules.md). Pick an open issue with no assignee from [the issue list](https://github.com/sanjana2505006/Messline/issues).
 
 Messline is a [Winter of Code Social 2026](https://woc.codesocial.tech) project.
+Mentor assign : Utkrisht Patel(Github: https://github.com/UTKRISHT-ICS52 )
 
 ## Run
 
